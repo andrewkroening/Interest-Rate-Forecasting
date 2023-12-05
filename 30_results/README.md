@@ -12,8 +12,3 @@
 
 * [Checkpoint Presentation](checkpoint.pdf) - This is the checkpoint presentation for the project
 
-******
-
-**Final Presentation Slides**
-
-![alt text](final_presentation.pdf?raw=true)
