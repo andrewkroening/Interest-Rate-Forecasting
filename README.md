@@ -1,4 +1,4 @@
-# Math789 Final Project - Fall 2023 ![Generic badge](https://img.shields.io/badge/Complete-black.svg) [![CI/CD Pipeline](https://github.com/andrewkroening/Interest-Rate-Forecasting/actions/workflows/main_cicd.yml/badge.svg)](https://github.com/andrewkroening/Interest-Rate-Forecasting/actions/workflows/main_cicd.yml)
+# Math789 Final Project - Fall 2023 ![Generic badge](https://img.shields.io/badge/Complete-black.svg)
 
 *[Adler Viton](https://github.com/adlerviton), [Jeremy Tan](https://github.com/jeremymtan), [Katherine Tian](https://github.com/katherinetian540), [Andrew Kroening](https://github.com/andrewkroening)*
 
